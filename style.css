@@ -34,7 +34,7 @@
 
 #portal{
     font-family: sinkin;
-    font-size: 25px;
+    font-size: 30px;
     color: white;
     margin-top: 13px;
     position: absolute;
@@ -128,7 +128,7 @@ body{
     position: absolute;
     margin-left: 20px;
     float: left;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .opcao p{
