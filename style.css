@@ -17,7 +17,7 @@ body{
 #container{
     background-color: white;
     width: 900px;
-    height: 500px;
+    height: 600px;
     margin-top: 130px;
     margin-left: 50px;
 }
@@ -26,9 +26,28 @@ body{
     height: 100%;
     width: 30%;
     background-color: rgb(196, 192, 192);
+    float: left;
 }
 
 .opcao{
     height: 120px;
     width: 100%;
+}
+
+.noticia{
+    width: 450px;
+    height: 300px;
+    margin-right: 100px;
+    margin-top: 100px;
+    float: right;
+}
+
+.opcao p{
+    margin-left: 15px;
+    position: absolute;
+    margin-top: 15px;
+}
+
+#titulo{
+    font-size: 40px;
 }
