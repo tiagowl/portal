@@ -190,3 +190,15 @@ body{
     margin-left: 8px;
 }
 
+.form-control{
+    width: 400px;
+}
+
+#texto{
+    height: 200px;
+}
+
+#resumo{
+    height: 150px;
+}
+
