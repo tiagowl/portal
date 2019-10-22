@@ -166,7 +166,7 @@ body{
 }
 
 .opcao-noticia{
-    height: 200px;
+    height: 270px;
     width: 286px;
     box-shadow: 2px 2px 2px rgb(219, 218, 218);
     border-top: solid 1px rgb(219, 218, 218);
@@ -174,11 +174,19 @@ body{
     display: inline-flex;
     margin-right: 10px;
     margin-top: 10px;
+    
 }
 
 .opcao-noticia-img{
     width: 286px;
     height: 115px;
     position: absolute;
+}
+
+.opcao-noticia-texto{
+    position: absolute;
+    width: 280px;
+    margin-top: 140px;
+    margin-left: 8px;
 }
 
